@@ -14,5 +14,6 @@ while count < 12 do
   puts 3
   puts 2
   puts 1
+  puts "Happy New Year!"
   count += 1
 end
