@@ -4,6 +4,15 @@ magic_exit_number = 10
 
 while count < 12 do
   break if count == magic_exit_number
-  puts \n 10, \n 9, \n 8, \n 7, \n 6, \n 5, \n 4, \n 3, \n 2, \n 1
+  puts 10
+  puts 9
+  puts 8
+  puts 7
+  puts 6
+  puts 5
+  puts 4
+  puts 3
+  puts 2
+  puts 1
   count += 1
 end
